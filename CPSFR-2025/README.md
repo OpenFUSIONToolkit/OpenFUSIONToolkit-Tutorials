@@ -3,7 +3,7 @@
 Notebooks for this workshop can be run in two ways:
 
 1. Online on **Google Colab** (no setup needed, but must have a Google account)
-  - [**Using TokaMaker to design a pulse in CUTE**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/CPSFR-2025/CPSFR-2025/ex1-fixed_boundary.ipynb)
+  - [**Using TokaMaker to design a pulse in CUTE**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/CPSFR-2025/CPSFR-2025/MIT_CPSFR25.ipynb)
 
 2. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
@@ -27,7 +27,7 @@ To open the notebooks on **Google Colab**, please open the links at the top of t
 
    The notebooks can be downloaded from GitHub at the following links or by checking out the [OpenFUSIONToolkit-Tutorials](https://github.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials) repo.
 
-   - [**Using TokaMaker to design a pulse in CUTE**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/CPSFR-2025/CPSFR-2025/ex1-fixed_boundary.ipynb)
+   - [**Using TokaMaker to design a pulse in CUTE**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/CPSFR-2025/CPSFR-2025/MIT_CPSFR25.ipynb)
 
 2. Download and install [Open FUSION Toolkit](https://github.com/hansec/OpenFUSIONToolkit/releases/tag/v1.0.0-beta6) release for your platform
 
