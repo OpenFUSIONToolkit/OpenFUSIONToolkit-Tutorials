@@ -5,6 +5,7 @@ Notebooks for this workshop can be run in two ways:
 1. Online on **Google Colab** (no setup needed, but must have a Google account)
   - [**Using TokaMaker to build a mesh for CUTE**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/main/OSSFE-2026/CUTE_mesh_ex.ipynb)
   - [**Using TokaMaker to design a pulse in CUTE**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/main/OSSFE-2026/CUTE_pulse_ex.ipynb)
+  - [**Using TokaMaker to predict currents and forces induced during a CQ in ITER**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/main/OSSFE-2026/ITER_disruption_forces.ipynb)
 
 2. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
@@ -30,6 +31,7 @@ To open the notebooks on **Google Colab**, please open the links at the top of t
 
    - [**Using TokaMaker to build a mesh for CUTE**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/main/OSSFE-2026/CUTE_mesh_ex.ipynb)
    - [**Using TokaMaker to design a pulse in CUTE**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/main/OSSFE-2026/CUTE_pulse_ex.ipynb)
+   - [**Using TokaMaker to predict currents and forces induced during a CQ in ITER**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/main/OSSFE-2026/ITER_disruption_forces.ipynb)
 
 2. Download and install [Open FUSION Toolkit](https://github.com/hansec/OpenFUSIONToolkit/releases/tag/v1.0.0-beta7) release for your platform
 
