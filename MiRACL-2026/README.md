@@ -3,9 +3,9 @@
 Notebooks for this workshop can be run in two ways:
 
 1. Online on **Google Colab** (no setup needed, but must have a Google account)
-  - [**Using TokaMaker compute forces from a simple CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/TokaMaker-disruption_forces.ipynb)
-  - [**Using TokaMaker compute forces from a hot VDE+CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/TokaMaker_VDE-disruption_forces.ipynb)
-  - [**Using ThinCurr compute forces from a simple CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/ThinCurr-disruption_forces.ipynb)
+  - [**Using TokaMaker to predict forces from a simple CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/TokaMaker-disruption_forces.ipynb)
+  - [**Using TokaMaker to predict forces from a hot VDE+CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/TokaMaker_VDE-disruption_forces.ipynb)
+  - [**Using ThinCurr to predict forces from a simple CQ**](https://colab.research.google.com/github/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/blob/MiRACL26/MiRACL-2026/ThinCurr-disruption_forces.ipynb)
 
 2. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
@@ -29,9 +29,9 @@ To open the notebooks on **Google Colab**, please open the links at the top of t
 
    The notebooks can be downloaded from GitHub at the following links or by checking out the [OpenFUSIONToolkit-Tutorials](https://github.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials) repo.
 
-   - [**Using TokaMaker compute forces from a simple CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/TokaMaker-disruption_forces.ipynb)
-   - [**Using TokaMaker compute forces from a hot VDE+CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/TokaMaker_VDE-disruption_forces.ipynb)
-   - [**Using ThinCurr compute forces from a simple CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/ThinCurr-disruption_forces.ipynb)
+   - [**Using TokaMaker to predict forces from a simple CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/TokaMaker-disruption_forces.ipynb)
+   - [**Using TokaMaker to predict forces from a hot VDE+CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/TokaMaker_VDE-disruption_forces.ipynb)
+   - [**Using ThinCurr to predict forces from a simple CQ**](https://raw.githubusercontent.com/OpenFUSIONToolkit/OpenFUSIONToolkit-Tutorials/MiRACL26/MiRACL-2026/ThinCurr-disruption_forces.ipynb)
 
 2. Install the [Open FUSION Toolkit](https://pypi.org/project/OpenFUSIONToolkit/) using `pip` (**Virtual environment is strongly recommended**)
 
